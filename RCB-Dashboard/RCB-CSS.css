@@ -33,6 +33,12 @@ body {
   text-shadow: 2px 2px #000;
 }
 
+.header h6 {
+  font-size: 1rem;
+  color: #e9bd0f;
+  text-shadow: 2px 2px #000;
+}
+
 .stats {
   display: flex;
   justify-content: space-between;
